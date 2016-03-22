@@ -1,0 +1,54 @@
+#container{
+	width:900px;
+	background-color:#ffffff;
+	margin:auto;
+	border:3px solid #000000;
+	overflow:auto;
+}
+
+#trangchu{
+	width: 900px;
+	min-height:50px;
+	background-color:red;
+	margin:0px auto;	
+}
+#dacdiem{
+	width: 900px;
+	min-height:100px;
+	background-color:yellow;
+	margin-top:10px;	
+}
+#noidung1{
+	width: 290px;
+	min-height:650px;
+	background-color:blue;
+	float:left;
+	margin-top: 10px;
+}
+#noidung2{
+	width: 300px;
+	min-height:650px;
+	background-color:#00ffae;
+	float:left;
+	margin-top:10px;
+	margin-left: 10px;
+}	
+#noidung3{
+	width: 290px;
+	min-height:650px;
+	background-color:#48ff00;
+	float:right;
+	margin-top:10px;
+    margin-left:10px;
+}	
+
+#footer{
+	
+	width:900px;
+	min-height: 200px;
+	background-color: #00a2ff;
+	clear: both;
+	margin-top:670px;
+	
+	
+}
